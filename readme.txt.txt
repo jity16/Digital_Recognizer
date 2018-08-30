@@ -1,0 +1,1 @@
+training_1.py是参照官网标程实现，trainging_1(learningrate).py是修改学习函数后的代码，training_2.py是更换学习方式的代码。这三个文件均可以直接在activate tensorflow后用python xxx.py来执行。
